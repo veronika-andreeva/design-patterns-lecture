@@ -21,4 +21,12 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <distributionManagement>
+        <repository>
+            <id>default-libs-release</id>
+            <url>https://junx.jfrog.io/artifactory/default-libs-release/default-libs-release</url>
+        </repository>
+
+    </distributionManagement>
+
 </project>
