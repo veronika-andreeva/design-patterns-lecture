@@ -23,8 +23,8 @@
 
     <distributionManagement>
         <repository>
-            <id>default-libs-release</id>
-            <url>https://junx.jfrog.io/artifactory/default-libs-release/default-libs-release</url>
+            <id>example-repo-local</id>
+            <url>https://junx.jfrog.io/artifactory/default-libs-release/example-repo-local</url>
         </repository>
 
     </distributionManagement>
