@@ -27,7 +27,7 @@ public class MessageTransformerDemo {
         MessageTransformer xmlTransformer = MessageTransformerFactory.getMessageTransformer(FormatType.XML);
         xmlTransformer.writeMovieInFile(movie, baseDirectory, outpuFileName, "xml");
 
-        System.out.println("Trigger job on commit test");
+        System.out.println("Trigger job on commit test again");
     }
 
 
